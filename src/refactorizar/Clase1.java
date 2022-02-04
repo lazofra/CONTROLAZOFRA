@@ -10,6 +10,7 @@ package refactorizar;
  * @author dam
  */
 public class Clase1 {
+    
     private void hola () {
         System.out.println("Hola");
     }
